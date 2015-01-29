@@ -1,0 +1,6 @@
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+E:\SoftUni\MyHomeworks\2. Primitive-Data-Types-and-Variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
